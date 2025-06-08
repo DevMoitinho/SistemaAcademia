@@ -1,0 +1,65 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    background-color: red;
+}
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #051f20;
+    height: 100%;
+}
+.Login{
+    margin: 150px 0px;
+    justify-content: center;
+    text-align: center;
+    background-color: #163832;
+    height: 350px;
+    width: 250px;
+    border-radius: 9px;
+}
+.text{
+    margin: 9px;
+    color: wheat;
+}
+
+.loginButton{
+    background-color: #8be69b;
+    height: 50px;
+    width: 100px;
+    border-radius: 15%;
+    margin: 30px 0px;
+}
+
+.inputText{
+    border-radius: 9px;
+}
+
+#bottone1 {
+margin: 30px 0px;
+ padding-left: 33px;
+ padding-right: 33px;
+ padding-bottom: 16px;
+ padding-top: 16px;
+ border-radius: 9px;
+ background: #d5f365;
+ border: none;
+ font-family: inherit;
+ text-align: center;
+ cursor: pointer;
+ transition: 0.4s;
+}
+
+#bottone1:hover {
+ box-shadow: 7px 5px 56px -14px #C3D900;
+}
+
+#bottone1:active {
+ transform: scale(0.97);
+ box-shadow: 7px 5px 56px -10px #C3D900;
+}
