@@ -66,4 +66,26 @@ button:hover{
     background: #e5ff00;
 }
 
+.sideBar{
+    width: 50px;
+    padding: 30px;
+    background: #d5f365;
+    border-radius: 36px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+}
+
+.navega{
+    width: 100%;
+    max-width: 100px;
+    padding: 12px;
+    background-color: #79850d;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: 0.5s;
+}
+
 
